@@ -10,4 +10,4 @@ NIM :2041720172
 ![img2](images/2.jpg),
 
 ## Hapus Biodata
-![img3](images/3.jpg),
+![img3](images/3.jpg)
